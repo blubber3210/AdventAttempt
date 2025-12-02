@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Advent
 {
-    internal class SafeInput
+    public class SafeInput
     {
         public SafeInput(char letter, int number)
         {
@@ -14,5 +14,7 @@ namespace Advent
 
         public char Letter { get; set; }
         public int Number { get; set; }
+        
+    
     }
 }
