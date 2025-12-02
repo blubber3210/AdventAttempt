@@ -35,7 +35,7 @@ namespace Advent
 
             //Add(55);
             //Subtract(55);
-            Console.WriteLine(dial);
+            //Console.WriteLine(dial);
             Console.WriteLine(count);
 
 
@@ -46,7 +46,12 @@ namespace Advent
         static void Add(int number)
         {
             dial = (dial + number) % 100;
-        }
+            //for (int i = 0; i < number; i++)
+            //{
+            //    dial++;
+            //    if (dial == 0) return1; 
+            //}
+        } 
 
         static void Subtract(int number)
         {
