@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="Advent/Advent1.csproj" />
   <Project Path="Advent2/Advent2.csproj" Id="462fafa9-ff0f-4cd8-9ab6-61f2b27272e7" />
+  <Project Path="AdventDay2/AdventDay2.csproj" Id="fbc311af-5b7f-40f0-bad4-daf80df73ff7" />
 </Solution>

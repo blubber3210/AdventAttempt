@@ -32,11 +32,9 @@ namespace Advent
                 if (dial == 0) count++;
             }
 
-            //Console.WriteLine(inputs.Length);
-            //Console.WriteLine(allInputs.Count);
+            
 
-            //Add(55);
-            //Subtract(55);
+
             Console.WriteLine(dial);
             Console.WriteLine(count);
 
