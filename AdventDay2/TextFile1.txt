@@ -17,6 +17,19 @@ ex 24-45:
 Åjaaaaaaa - De mener ikke 223333 er feil fordi den har 22 og 3333
 første halvdel skal == andre halvdel. 
 
+Del2: 
+
+ikke bare to halve som er like. Nå i tillegg! 
+any sequence of digits repeated at least twice, 
+
+
+det kan fortsatt være substrings, men det viktigste er pattern recognition.
+Dele opp i flere ? 
+
+
+
+
+
 ID RANGES: 
 
 92916254-92945956,
