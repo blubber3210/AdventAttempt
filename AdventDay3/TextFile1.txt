@@ -1,0 +1,11 @@
+﻿
+
+Escalator banks of batteries 
+
+Logikken min er feil - den tar det høyeste nummeret basta.
+
+
+
+
+f ex: 
+6122221212223222221222221122232243223216125222134222113211222222222223423221222333331212121221212222

@@ -3,4 +3,5 @@
   <Project Path="Advent2/Advent2.csproj" Id="462fafa9-ff0f-4cd8-9ab6-61f2b27272e7" />
   <Project Path="AdventDay2/AdventDay2.csproj" Id="fbc311af-5b7f-40f0-bad4-daf80df73ff7" />
   <Project Path="AdventDay3/AdventDay3.csproj" Id="ff32af9a-3345-48d1-a783-1e348f3aaf0f" />
+  <Project Path="AdventDay4/AdventDay4.csproj" Id="a690291c-8e03-4557-a4e9-5bc5db94c0e1" />
 </Solution>
